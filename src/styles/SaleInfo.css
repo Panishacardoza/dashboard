@@ -1,0 +1,68 @@
+.sale-head {
+  display: flex;
+  justify-content: center;
+  color: #000;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 540px;
+  padding-top: 19px;
+}
+
+.sale-info {
+  display: flex;
+  flex-direction: row;
+  gap: 57px;
+  text-align: start;
+  padding-left: 174px;
+}
+
+.sale-input {
+  color: rgba(19, 19, 19, 0.6);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  width: 200px;
+  height: 27px;
+  border-radius: 3px;
+  border: 1px solid rgba(19, 19, 19, 0.25);
+  background: #fff;
+}
+
+.sale-report-head {
+  display: flex;
+  color: #000;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding-left: 170px;
+  justify-content: space-between;
+}
+
+.sale-report {
+  display: flex;
+  color: #000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 170px;
+  opacity: 0.65;
+  justify-content: space-between;
+}
+
+.sale-title {
+  color: #000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
